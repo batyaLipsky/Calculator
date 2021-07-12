@@ -1,0 +1,9 @@
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\משתמש\Desktop\react-projects\Backend\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
